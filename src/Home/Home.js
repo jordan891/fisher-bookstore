@@ -1,4 +1,4 @@
-import React from "./node_modules/react";
+import React from "react";
 import "./Home.css";
 
 export default function Home() {
@@ -9,5 +9,5 @@ export default function Home() {
                 <p>Welcome to Fisher Bookstore.</p>
             </div>
         </div>
-    );
+    )
 }
